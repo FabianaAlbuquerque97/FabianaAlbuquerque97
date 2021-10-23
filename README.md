@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Fabiana 👋
 
 - 🔭 Hoje trabalho como Back-End na linguagem java, mas estou migrando para a área de dados.
-- 🌱 Estudando conteinerização com Docker.
+- 🌱 Estudando MongoDB e Bancos de dados NoSQL.
 - 📫 Contate-me no e-mail: fabianacsj@hotmail.com
 - 😄 Pronouns: ela/dela.
 
