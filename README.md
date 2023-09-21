@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Fabiana 👋
 
 - 🔭 Migrando para a área de dados.
-- 🌱 Estudando MongoDB e Bancos de dados NoSQL.
+- 🌱 Estudando Matemática aplicada e Data Science.
 - 📫 Contate-me no e-mail: fabianacsj@hotmail.com
 - 😄 Pronouns: ela/dela.
 
