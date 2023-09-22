@@ -1,9 +1,10 @@
 ### Oiii! Eu sou a Fabiana 👋
 
 - 🔭 Migrando para a área de dados.
-- 🌱 Estudando Matemática aplicada e Data Science.
+- :pencil2: Estudando Matemática aplicada e Data Science.
 - 📫 Contate-me no e-mail: fabianacsj@hotmail.com
 - 😄 Pronouns: ela/dela.
+- :closed_book:   Link Caderno de Estudos: https://www.notion.so/fabiana-programacao/Caderno-de-Estudos-2058c54c777b4f6da782be4572680f7b?pvs=4
 
 <!-- gráficos -->
 <div align="center">
