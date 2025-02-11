@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Fabiana 👋
 
-- 🔭 Migrando para a área de dados.
+- 🔭 Sou cientista de dados.
 - :pencil2: Estudando Inteligência Artificial.
 - 📫 Contate-me no e-mail: fabianacsj@hotmail.com
 - 😄 Pronouns: ela/dela.
