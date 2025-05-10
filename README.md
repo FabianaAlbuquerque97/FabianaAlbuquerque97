@@ -2,7 +2,6 @@
 
 - 🔭 **Cientista de Dados** com paixão por resolver problemas através de dados.
 - :pencil2: Atualmente **estudando Inteligência Artificial**, focando em modelos de aprendizado profundo.
-- 📫 **Contate-me** por e-mail: fabianacsj@hotmail.com
 - 😄 **Pronouns**: ela/dela.
 - :closed_book: **Meu Caderno de Estudos**: [Acesse aqui](https://www.notion.so/fabiana-programacao/Caderno-de-Estudos-2058c54c777b4f6da782be4572680f7b?pvs=4). Nele, mostro os principais tópicos de aprendizagem de máquina.
 
