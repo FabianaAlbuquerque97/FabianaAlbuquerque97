@@ -41,3 +41,19 @@
 
 <!-- Contribution Snake -->
 ![Snake animation](https://github.com/FabianaAlbuquerque97/FabianaAlbuquerque97/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+  <br />
+
+  <!-- PAINEL DE ESTATÍSTICAS PRINCIPAL E LINGUAGENS -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <!-- Card de Estatísticas do GitHub (Paleta Lilás / Grafite) -->
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=FabianaAlbuquerque97&show_icons=true&title_color=C8A2C8&text_color=E0E0E0&icon_color=B19CD9&bg_color=0F0F12&border_color=23232E&hide_border=false&border_radius=10" alt="Estatísticas do GitHub de Fabiana" />
+      </td>
+
+</div>
