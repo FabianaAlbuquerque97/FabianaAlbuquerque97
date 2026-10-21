@@ -4,7 +4,6 @@
 - 📝 Atualmente **trabalhando como analista de sistemas**.
 - 😄 **Pronouns**: ela/dela.
 - 🌐 Currículo web: [https://curriculo-fabiana-albuquerque.netlify.app](https://curriculo-fabiana-albuquerque.netlify.app)
-- 🌐 GitHub Live Analytics: https://share.gemini.google/zoUMgmX4x4SR
 
 ---
 
